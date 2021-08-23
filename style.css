@@ -1,4 +1,10 @@
-div.content { 
+/* div.content { 
+    max-width: 960px;
+    margin: auto;
+    display: flex;
+}  */
+
+p.content {
     max-width: 960px;
     /* margin: auto; */
     display: flex;
