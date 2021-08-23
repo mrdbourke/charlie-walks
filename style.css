@@ -1,1 +1,4 @@
-div.content { width: 1000px }
+div.content { 
+    max-width: 960px;
+    display: flex;
+}
