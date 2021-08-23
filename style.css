@@ -5,13 +5,19 @@
 }  */
 
 p.content {
-    max-width: 850px;
+    max-width: 700px;
     /* margin: auto; */
     display: flex;
 }
 
+p.letter {
+    font-style: italic;
+}
+
 .block_12 {
     display: block;
+    max-width: 700px;
+    display: flex;
     line-height: 1.5;
     margin: 8.5pt 0;
     padding: 0
@@ -20,6 +26,8 @@ p.content {
 .block_15 {
     display: block;
     font-style: italic;
+    max-width: 700px;
+    display: flex;
     line-height: 1.5;
     margin: 8.5pt 0;
     padding: 0
