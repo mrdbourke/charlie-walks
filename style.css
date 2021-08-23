@@ -5,9 +5,16 @@
 }  */
 
 p.content {
-    max-width: 900px;
+    max-width: 850px;
     /* margin: auto; */
     display: flex;
+}
+
+.block_12 {
+    display: block;
+    line-height: 1.5;
+    margin: 8.5pt 0;
+    padding: 0
 }
 
 .block_15 {
