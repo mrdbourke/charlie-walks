@@ -1,13 +1,6 @@
 # Charlie Walks: A Novel by Daniel Bourke
 
-This repo contains the code for the website for Daniel Bourke's upcoming novel, Charlie Walks.
-
-When's it coming?
-
-* Digital version (PDF, EPUB, etc): August 31 2021
-* Print version: Later in the year.
-
-Updates will be posted here/the book's [homepage](https://www.charliewalks.com).
+This repo contains the code for the website for my first novel, [Charlie Walks](https://www.charliewalks.com) (out now!).
 
 ## What's the book about?
 
