@@ -4,6 +4,97 @@
     display: flex;
 }  */
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #2c2c2c;
+        color: white,
+    }
+
+    p {
+        color: white
+    }
+
+    h2 {
+        color: white
+    }
+
+    h1 {
+        color: white
+    }
+
+    ul {
+        color: white
+    }
+
+    a {
+        color: #9E9EFD;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: #CFADF0
+    }
+
+    a:hover {
+        color: #9E9EFD;
+        text-decoration: underline;
+    }
+
+    big {
+        color: white
+    }
+
+    /* <h1 class="shopify-buy__product__title" data-element="product.title">Charlie Walks: A Novel by Daniel Bourke (paperback)</h1> */
+    .shopify-buy__product__title {
+        color: white !important;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    line-height: 1.4;
+    font-size: 16px;
+    padding: 0 25px;
+    margin: 25px auto;
+    max-width: 650px;
+    /* filter: invert(1) hue-rotate(180deg); */
+    /* < !-- font-family: Avenir, "Segoe UI", Helvetica, Arial, sans-serif;
+    --> */
+}
+
+ul {
+    margin-top: 0px;
+}
+
+#buybutton {
+    margin: auto;
+    width: 50%;
+}
+
+#maincontent {
+    max-width: 38em;
+    margin: 15 auto;
+    margin-top: 70px;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 p.content {
     max-width: 700px;
     /* margin: auto; */
