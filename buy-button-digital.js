@@ -40,7 +40,10 @@
                                 }
                             },
                             "title": {
-                                "font-family": "Roboto, sans-serif"
+                                "font-family": "Roboto, sans-serif",
+                                "@media (prefers-color-scheme: dark)": {
+                                    "color": "#ffffff"
+                                }
                             },
                             "button": {
                                 "font-family": "Oxygen, sans-serif",
@@ -58,7 +61,10 @@
                                 "padding-right": "17px"
                             },
                             "price": {
-                                "font-family": "Roboto, sans-serif"
+                                "font-family": "Roboto, sans-serif",
+                                "@media (prefers-color-scheme: dark)": {
+                                    "color": "#ffffff"
+                                }
                             },
                             "compareAt": {
                                 "font-family": "Roboto, sans-serif"

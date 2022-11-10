@@ -14,6 +14,10 @@
         color: white
     }
 
+    h3 {
+        color: white
+    }
+
     h2 {
         color: white
     }
@@ -46,7 +50,8 @@
 
     /* <h1 class="shopify-buy__product__title" data-element="product.title">Charlie Walks: A Novel by Daniel Bourke (paperback)</h1> */
     .shopify-buy__product__title {
-        color: white !important;
+        /* color: white !important; */
+        color: #fff !important;
     }
 }
 
