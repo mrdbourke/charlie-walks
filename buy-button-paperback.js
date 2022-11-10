@@ -77,7 +77,8 @@
                             "button": false,
                             "buttonWithQuantity": true
                         },
-                        "width": "380px",
+                        "width": "350px",
+                        "margin": "auto",
                         "text": {
                             "button": "Buy now"
                         },

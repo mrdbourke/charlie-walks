@@ -73,9 +73,14 @@ ul {
     margin-top: 0px;
 }
 
-#buybutton {
+/* Make paperback buy button centered */
+#product-component-1667963168069 {
     margin: auto;
-    width: 50%;
+}
+
+/* Make digital button centered */
+#product-component-1667958347782 {
+    margin: auto;
 }
 
 #maincontent {
@@ -88,12 +93,12 @@ h2 {
     margin-bottom: 0px;
 }
 
-img {
+/* img {
     display: block;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 p.content {
     max-width: 700px;

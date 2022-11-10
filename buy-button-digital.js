@@ -72,6 +72,8 @@
                             "button": false,
                             "buttonWithQuantity": true
                         },
+                        "width": "240px",
+                        "margin": "auto",
                         "text": {
                             "button": "Buy now"
                         },
